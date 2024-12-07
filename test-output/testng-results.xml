@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-07T20:46:08 IST" name="Suite" finished-at="2024-12-07T20:48:34 IST" duration-ms="146252">
+    <groups>
+    </groups>
+    <test started-at="2024-12-07T20:46:08 IST" name="Test" finished-at="2024-12-07T20:48:34 IST" duration-ms="146252">
+      <class name="test.QuickViewPopupTest">
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.QuickViewPopupTest@f09733f]" started-at="2024-12-07T20:47:59 IST" name="launchNaptol" finished-at="2024-12-07T20:48:02 IST" duration-ms="3171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifyIfProdutDetailsAreCorrcetIfViewInQuickView()[pri:1, instance:test.QuickViewPopupTest@f09733f]" started-at="2024-12-07T20:48:02 IST" name="verifyIfProdutDetailsAreCorrcetIfViewInQuickView" finished-at="2024-12-07T20:48:05 IST" duration-ms="2543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfProdutDetailsAreCorrcetIfViewInQuickView -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.QuickViewPopupTest@f09733f]" started-at="2024-12-07T20:48:05 IST" name="closeBrowser" finished-at="2024-12-07T20:48:05 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.QuickViewPopupTest@f09733f]" started-at="2024-12-07T20:48:05 IST" name="launchNaptol" finished-at="2024-12-07T20:48:08 IST" duration-ms="3178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifyByAddingProductToCartUsingQuickView()[pri:2, instance:test.QuickViewPopupTest@f09733f]" started-at="2024-12-07T20:48:08 IST" name="verifyByAddingProductToCartUsingQuickView" finished-at="2024-12-07T20:48:10 IST" duration-ms="2585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyByAddingProductToCartUsingQuickView -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.QuickViewPopupTest@f09733f]" started-at="2024-12-07T20:48:10 IST" name="closeBrowser" finished-at="2024-12-07T20:48:11 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.QuickViewPopupTest -->
+      <class name="test.ProductDetailsPageTest">
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.ProductDetailsPageTest@38cee291]" started-at="2024-12-07T20:47:28 IST" name="launchNaptol" finished-at="2024-12-07T20:47:31 IST" duration-ms="3242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifyProductDetailsAreCorrectIfViewInNewTab()[pri:1, instance:test.ProductDetailsPageTest@38cee291]" started-at="2024-12-07T20:47:31 IST" name="verifyProductDetailsAreCorrectIfViewInNewTab" finished-at="2024-12-07T20:47:34 IST" duration-ms="2912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetailsAreCorrectIfViewInNewTab -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.ProductDetailsPageTest@38cee291]" started-at="2024-12-07T20:47:34 IST" name="closeBrowser" finished-at="2024-12-07T20:47:34 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.ProductDetailsPageTest@38cee291]" started-at="2024-12-07T20:47:34 IST" name="launchNaptol" finished-at="2024-12-07T20:47:38 IST" duration-ms="3632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifyByAddingProductToCartUsingProductDetailPage()[pri:2, instance:test.ProductDetailsPageTest@38cee291]" started-at="2024-12-07T20:47:38 IST" name="verifyByAddingProductToCartUsingProductDetailPage" finished-at="2024-12-07T20:47:42 IST" duration-ms="4103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyByAddingProductToCartUsingProductDetailPage -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.ProductDetailsPageTest@38cee291]" started-at="2024-12-07T20:47:42 IST" name="closeBrowser" finished-at="2024-12-07T20:47:42 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.ProductDetailsPageTest -->
+      <class name="test.HomePageTest">
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.HomePageTest@4b45a2f5]" started-at="2024-12-07T20:47:42 IST" name="launchNaptol" finished-at="2024-12-07T20:47:47 IST" duration-ms="4736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="searchAValidProduct()[pri:1, instance:test.HomePageTest@4b45a2f5]" started-at="2024-12-07T20:47:47 IST" name="searchAValidProduct" finished-at="2024-12-07T20:47:49 IST" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAValidProduct -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.HomePageTest@4b45a2f5]" started-at="2024-12-07T20:47:49 IST" name="closeBrowser" finished-at="2024-12-07T20:47:49 IST" duration-ms="385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.HomePageTest@4b45a2f5]" started-at="2024-12-07T20:47:49 IST" name="launchNaptol" finished-at="2024-12-07T20:47:52 IST" duration-ms="3184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="searchInvalidProduct()[pri:2, instance:test.HomePageTest@4b45a2f5]" started-at="2024-12-07T20:47:52 IST" name="searchInvalidProduct" finished-at="2024-12-07T20:47:54 IST" duration-ms="1567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInvalidProduct -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.HomePageTest@4b45a2f5]" started-at="2024-12-07T20:47:54 IST" name="closeBrowser" finished-at="2024-12-07T20:47:54 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.HomePageTest@4b45a2f5]" started-at="2024-12-07T20:47:54 IST" name="launchNaptol" finished-at="2024-12-07T20:47:58 IST" duration-ms="3775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifyShoppingCategoriesDropdownList()[pri:3, instance:test.HomePageTest@4b45a2f5]" started-at="2024-12-07T20:47:58 IST" name="verifyShoppingCategoriesDropdownList" finished-at="2024-12-07T20:47:59 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyShoppingCategoriesDropdownList -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.HomePageTest@4b45a2f5]" started-at="2024-12-07T20:47:59 IST" name="closeBrowser" finished-at="2024-12-07T20:47:59 IST" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.HomePageTest -->
+      <class name="test.CartPageTest">
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:46:08 IST" name="launchNaptol" finished-at="2024-12-07T20:46:13 IST" duration-ms="5153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifyByAddingMultipleProductsToCart()[pri:1, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:46:13 IST" name="verifyByAddingMultipleProductsToCart" finished-at="2024-12-07T20:46:28 IST" duration-ms="14684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyByAddingMultipleProductsToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:46:28 IST" name="closeBrowser" finished-at="2024-12-07T20:46:28 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:46:28 IST" name="launchNaptol" finished-at="2024-12-07T20:46:32 IST" duration-ms="3527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifyOnChangingProductQuantityCorrectAmountIsDisplyed()[pri:2, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:46:32 IST" name="verifyOnChangingProductQuantityCorrectAmountIsDisplyed" finished-at="2024-12-07T20:46:40 IST" duration-ms="7995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOnChangingProductQuantityCorrectAmountIsDisplyed -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:46:40 IST" name="closeBrowser" finished-at="2024-12-07T20:46:40 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:46:40 IST" name="launchNaptol" finished-at="2024-12-07T20:46:43 IST" duration-ms="3482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifyByRemovingProductFromCart()[pri:3, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:46:43 IST" name="verifyByRemovingProductFromCart" finished-at="2024-12-07T20:47:09 IST" duration-ms="26013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyByRemovingProductFromCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:47:09 IST" name="closeBrowser" finished-at="2024-12-07T20:47:10 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:47:10 IST" name="launchNaptol" finished-at="2024-12-07T20:47:13 IST" duration-ms="3180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifyTotalAmountForMultipleProductsInCart()[pri:4, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:47:13 IST" name="verifyTotalAmountForMultipleProductsInCart" finished-at="2024-12-07T20:47:28 IST" duration-ms="15036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTotalAmountForMultipleProductsInCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.CartPageTest@29215f06]" started-at="2024-12-07T20:47:28 IST" name="closeBrowser" finished-at="2024-12-07T20:47:28 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.CartPageTest -->
+      <class name="test.SortFilterTest">
+        <test-method is-config="true" signature="launchNaptol()[pri:0, instance:test.SortFilterTest@e350b40]" started-at="2024-12-07T20:48:11 IST" name="launchNaptol" finished-at="2024-12-07T20:48:14 IST" duration-ms="2943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchNaptol -->
+        <test-method signature="verifySortFeature()[pri:0, instance:test.SortFilterTest@e350b40]" started-at="2024-12-07T20:48:14 IST" name="verifySortFeature" finished-at="2024-12-07T20:48:34 IST" duration-ms="19906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySortFeature -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SortFilterTest@e350b40]" started-at="2024-12-07T20:48:34 IST" name="closeBrowser" finished-at="2024-12-07T20:48:34 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.SortFilterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
